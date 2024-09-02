@@ -6,10 +6,10 @@ This is a simple single-player Tic-Tac-Toe game built using HTML, CSS, and JavaS
 
 ## Features
 
-- Single-player mode.
+- Single-player mode
 - Simple and intuitive UI
 - Responsive design
-- Displays the winner.
+- Displays the winner
 - Option to restart the game
 
 ## Technologies Used
