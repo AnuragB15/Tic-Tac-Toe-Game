@@ -20,7 +20,7 @@ This is a simple single-player Tic-Tac-Toe game built using HTML, CSS, and JavaS
 
 ## Installation
 
-No installation is required to play this game. Simply download the files and open `index.html` in your preferred web browser.
+No installation is required to play this game. Simply download the files and open `https://t3projectproduction.netlify.app/` in your preferred web browser.
 
 ### Clone the Repository
 
